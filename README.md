@@ -8,7 +8,8 @@
 *
 ### What is quirks mode?
 
-* Document will default to "quirks" mode if the html is not rendered using DOCTYPE and allow for them to reder more modern and contemporary html docs properly.
+* Document will default to "quirks" mode if the html is not rendered using DOCTYPE.
+* Allows for older browsers to redner more modern and contemporary html docs properly.
 * More commonly used in older browsers.
 
 ## CSS
